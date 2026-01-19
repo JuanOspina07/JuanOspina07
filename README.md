@@ -111,8 +111,9 @@ I believe that clean code today saves hours of debugging tomorrow 😄
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JuanOspina07/JuanOspina07/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/JuanOspina07/JuanOspina07/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 <h3 align="center">📌 Pinned Projects</h3>
 
