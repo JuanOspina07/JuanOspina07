@@ -95,3 +95,23 @@ ARTESANIAS Y VIVERO EL ROSAL S.A.S — Tuluá
 <p align="center">
 I believe that clean code today saves hours of debugging tomorrow 😄
 </p>
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JuanOspina07/JuanOspina07/output/github-contribution-grid-snake.svg" />
+</p>
+
+<h3 align="center">📌 Pinned Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/JuanOspina07">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanOspina07&repo=JAMFLOK-Movil&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/JuanOspina07">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanOspina07&repo=BackendJAMFLOK&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/JuanOspina07">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanOspina07&repo=SavorApp07&theme=tokyonight" />
+  </a>
+</p>
+
