@@ -83,10 +83,23 @@ ARTESANIAS Y VIVERO EL ROSAL S.A.S — Tuluá
 <h3 align="center">📂 Featured Projects</h3>
 
 <ul>
-  <li><b>Business Directory Platform</b> — Platform for business registration and service discovery</li>
-  <li><b>E-commerce Platform</b> — Online store with payment gateway and responsive UI</li>
-  <li><b>CNN Image Classifier</b> — Deep learning model for football player image classification</li>
+  <li>
+    <b>Jamflok Platform</b> — Full stack platform for business and service management.<br>
+    Multi-role system with user authentication, business registration, service listings, and scalable architecture focused on real-world problem solving.
+  </li>
+  <br>
+  <li>
+    <b>SavorApp</b> — Full stack restaurant management platform with real-time order flow and inventory control.<br>
+    Includes three roles:
+    <ul>
+      <li>👤 <b>Customer</b>: Places food orders from the platform.</li>
+      <li>👨‍🍳 <b>Chef</b>: Prepares orders and updates their status in real time.</li>
+      <li>🛠️ <b>Admin</b>: Manages global stock and system configuration.</li>
+    </ul>
+    Orders automatically update inventory levels, ensuring accurate stock management.
+  </li>
 </ul>
+
 
 ---
 
