@@ -124,11 +124,11 @@ I believe that clean code today saves hours of debugging tomorrow 😄
 </p>
 
 <p align="center"> 
- <a href="https://github.com/JuanOspina07/BackendJAMFLOK"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanOspina07&repo=BackendJAMFLOK&theme=tokyonight&border_radius=10&cache_seconds=1800" width="400"/> 
-</a> 
+   <a href="https://github.com/JuanOspina07/BackendJAMFLOK">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanOspina07&repo=BackendJAMFLOK&theme=tokyonight" />
+  </a>
   <a href="https://github.com/JuanOspina07/SavorApp07">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanOspina07&repo=SavorApp07&theme=tokyonight&border_radius=10&cache_seconds=1800" width="400"/> 
-</a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanOspina07&repo=SavorApp07&theme=tokyonight" />
+  </a>
 </p>
 
