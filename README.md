@@ -119,7 +119,7 @@ I believe that clean code today saves hours of debugging tomorrow 😄
 
 <p align="center">
  <a href="https://github.com/JuanOspina07/JAMFLOK-Movil">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanOspina07&repo=JAMFLOK-Movil&theme=tokyonight&border_radius=10&cache_seconds=1800" width="500"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanOspina07&repo=JAMFLOK-Movil&theme=tokyonight" />
 </a>
 </p>
 
